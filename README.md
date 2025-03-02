@@ -26,7 +26,7 @@
 
 ## 🌐AWS 설계
 
-![Image](https://github.com/user-attachments/assets/d683a7ae-93a1-4dfb-a147-67c2b2f7ae5a)
+![Image](https://github.com/user-attachments/assets/6d064243-624c-4691-b911-313739895746)
 
 ## 🎨디자인 설계
 
