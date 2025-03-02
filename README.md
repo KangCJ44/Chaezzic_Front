@@ -6,7 +6,7 @@
 기술: AWS EC2, LLM, React, SpringBoot, Tibero
 날짜: 2023년 11월 1일 → 2023년 12월 18일
 
-![Image](https://github.com/user-attachments/assets/bdef0b5a-fc1f-431a-b28c-c07d7ccf6530)
+![Image](https://github.com/user-attachments/assets/39f238b1-91c2-4c01-8bda-3d24f3887200)
 # 📝 기획
 
 ---
@@ -30,12 +30,12 @@
 
 ## 🎨디자인 설계
 
+![Image](https://github.com/user-attachments/assets/39f238b1-91c2-4c01-8bda-3d24f3887200)
 ![Image](https://github.com/user-attachments/assets/bdef0b5a-fc1f-431a-b28c-c07d7ccf6530)
+
 ![Image](https://github.com/user-attachments/assets/22c519da-a920-4b9c-9e9c-92b0fec25b76)
 
 ![Image](https://github.com/user-attachments/assets/6cbdd8e8-5572-4b35-9caa-5861e04f7944)
-
-![Image](https://github.com/user-attachments/assets/6d064243-624c-4691-b911-313739895746)
 
 # 👨🏻‍💻담당 구현
 
